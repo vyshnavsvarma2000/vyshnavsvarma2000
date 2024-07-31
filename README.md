@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm VYSHNAV S VARMA 😎</h1>
-<h3 align="center">Combining a strong foundation in Python development with hands-on experience in manual and automated testing, I am dedicated to pushing the boundaries of software quality. My journey extends into the realms of AI, ML, and Data Science, where I explore innovative solutions to enhance testing frameworks and drive intelligent automation. 🔍 In my toolkit: Advanced Testing Skills: Developed and executed comprehensive test cases and API scripts, integrated with CI/CD for accelerated deployments. Tech Enthusiast: Continuously learning and applying AI, ML, and Data Science techniques to optimize testing processes and uncover actionable insights. Software Engineering Background: Leveraged my engineering expertise to improve application performance and data management, driving efficiency and reliability. 🚀 Let’s connect and explore how we can shape the future of technology together!</h3>
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<h3 align="center">
+  Combining a strong foundation in Python development with hands-on experience in manual and automated testing, I am dedicated to pushing the boundaries of software quality.<br><br>
+  My journey extends into the realms of AI, ML, and Data Science, where I explore innovative solutions to enhance testing frameworks and drive intelligent automation.<br><br>
+  🔍 <strong>In my toolkit:</strong><br>
+  - <strong>Advanced Testing Skills:</strong> Developed and executed comprehensive test cases and API scripts, integrated with CI/CD for accelerated deployments.<br>
+  - <strong>Tech Enthusiast:</strong> Continuously learning and applying AI, ML, and Data Science techniques to optimize testing processes and uncover actionable insights.<br>
+  - <strong>Software Engineering Background:</strong> Leveraged my engineering expertise to improve application performance and data management, driving efficiency and reliability.<br><br>
+  🚀 <strong>Let’s connect and explore how we can shape the future of technology together!</strong>
+</h3>
+
+<img align="center" alt="Banner" src="Vyshnav-s-varma-banner-PNG.png">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400" style="flex: 1; max-width: 400px; margin-right: auto;">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Boy playing with computer" width="400" style="flex: 1; max-width: 400px; margin-left: auto;">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavsvarma2000&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavsvarma2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyshnavsvarma2000" alt="vyshnavsvarma2000" /></a> </p>
