@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm VYSHNAV S VARMA 😎</h1>
 
 <h3 align="center">
-  Combining a strong foundation in Python development with hands-on experience in QA manual and automated testing, I am dedicated to pushing the boundaries of software quality.<br><br>
-  My journey extends into the realms of AI, ML, and Data Science, where I explore innovative solutions to enhance testing frameworks and drive intelligent automation.<br><br>
-  🔍 <strong>In my toolkit:</strong><br>
-  - <strong>Advanced Testing Skills:</strong> Developed and executed comprehensive test cases and API scripts, integrated with CI/CD for accelerated deployments.<br>
-  - <strong>Tech Enthusiast:</strong> Continuously learning and applying AI, ML, and Data Science techniques to optimize testing processes and uncover actionable insights.<br>
-  - <strong>Software Engineering Background:</strong> Leveraged my engineering expertise to improve application performance and data management, driving efficiency and reliability.<br><br>
-  🚀 <strong>Let’s connect and explore how we can shape the future of technology together!</strong>
+  Passionate QA Engineer with a solid foundation in Python development and hands-on experience in both manual and automated testing.<br><br>
+  I’m on a continuous journey to enhance my expertise in AI, ML, and Data Science, integrating these innovations to elevate testing frameworks and drive intelligent automation.<br><br>
+  🔍 <strong>Current Skills:</strong><br>
+  - <strong>QA Automation:</strong> Mastering test case development, API scripting, and CI/CD integration for seamless deployments.<br>
+  - <strong>Development Expertise:</strong> Utilizing Python to boost application performance and streamline data management.<br>
+  🚀 <strong>Let’s connect and innovate together to shape the future of tech!</strong>
 </h3>
+
 
 <img align="center" alt="Banner" src="Vyshnav-s-varma-banner-PNG.png">
 
@@ -47,7 +47,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyshnavsvarma2000&show_icons=true&locale=en" alt="vyshnavsvarma2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavsvarma2000&" alt="vyshnavsvarma2000" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vyshnavsvarma2000&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<h2 align="center">My Contributions 📈</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavsvarma2000&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
