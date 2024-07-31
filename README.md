@@ -26,11 +26,11 @@
 
 - 👯 I’m looking to collaborate on **Quality Assurance & Software Development**
 
-- 👨‍💻 All of my projects are available at [👆 github.com/vyshnavsvarma2000](👆 github.com/vyshnavsvarma2000)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/vyshnavsvarma2000" target="_blank">👆 github.com/vyshnavsvarma2000</a>
 
 - 💬 Ask me about **Python, Manual Testing , Automation Testing, Software Development, Databases, Artificial Intelligence**
 
-- 📫 How to reach me **📩 vyshnav.s.varma@gmail.com / Ping Me📲 +919074959912**
+- How to reach me 📩 <a href="mailto:vyshnav.s.varma@gmail.com">vyshnav.s.varma@gmail.com</a> / Ping Me 📲 <a href="tel:+919074959912"><b>+919074959912<b></a>
 
 - ⚡ My Extra Talents **🎙️Singer, 🎹Musician 🎵🎼**
 
