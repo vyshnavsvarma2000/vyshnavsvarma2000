@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VYSHNAV S VARMA 😎</h1>
 
 <h3 align="center">
-  Combining a strong foundation in Python development with hands-on experience in manual and automated testing, I am dedicated to pushing the boundaries of software quality.<br><br>
+  Combining a strong foundation in Python development with hands-on experience in QA manual and automated testing, I am dedicated to pushing the boundaries of software quality.<br><br>
   My journey extends into the realms of AI, ML, and Data Science, where I explore innovative solutions to enhance testing frameworks and drive intelligent automation.<br><br>
   🔍 <strong>In my toolkit:</strong><br>
   - <strong>Advanced Testing Skills:</strong> Developed and executed comprehensive test cases and API scripts, integrated with CI/CD for accelerated deployments.<br>
